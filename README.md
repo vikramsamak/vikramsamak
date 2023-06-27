@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on: Static websites, Python Based GUIs, <br>🌱 I’m currently learning: Python, C#, Java, HTML, CSS, JavaScript<br>
+🌱 I’m currently learning: Python, HTML, CSS, JavaScript, Node, Express, React, Firebase, Flask, Bootstrap<br>
 
 
 ## 🌐 Socials:
