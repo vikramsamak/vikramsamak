@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vikram Samak</h1>
-<img align="center" src="https://cdn-kehhb.nitrocdn.com/iEJFLbwsQHQzpVjXnwXhzYxhRIedkADp/assets/images/optimized/rev-f33d651/devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="vikramsamak"/>
 <h3 align="center">Aspiring Web Developer</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, ReactJS, NextJS, ExpressJS, Firebase**
