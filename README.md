@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vikram Samak</h1>
-<img align="center" src="https://drive.google.com/uc?id=1tFfG1rlddGqR7is9cpALxqMdXlHLWAUX">
 <h3 align="center">Aspiring Web Developer</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, ReactJS, NextJS, ExpressJS, Firebase**
