@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Samak</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, ReactJS, NextJS, ExpressJS, Firebase**
+- 🌱 I’m currently learning **HTML, CSS, JS, ReactJS, NextJS, ExpressJS, Firebase, MongoDB**
 - 👨‍💻 All of my projects are available at [https://vikramsamak.com/](https://vikramsamak.com/)
 - 📫 How to reach me **vikramsamak02@gmail.com**
   
