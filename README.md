@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikram Samak</h1>
-<h3 align="center">Aspiring Web Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, ReactJS, NextJS, ExpressJS, MongoDB**
 - 👨‍💻 My Portfolio [vikramsamak.com](https://vikramsamak.com/)
