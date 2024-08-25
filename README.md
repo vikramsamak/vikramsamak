@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/vikram-samak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram-samak" height="30" width="40" /></a>
 <a href="https://fb.com/vikramsamak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikramsamak" height="30" width="40" /></a>
 <a href="https://instagram.com/vikramsamak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vkrm__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vikramsamak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vikramsamak" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vikramsamak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vikramsamak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vikramsamak02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikramsamak02" height="30" width="40" /></a>
 </p>
 
