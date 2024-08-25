@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Web Developer</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, ReactJS, NextJS, ExpressJS, MongoDB**
-- 👨‍💻 All of my projects are available at [https://vikramsamak.com/](https://vikramsamak.com/)
+- 👨‍💻 My Portfolio [vikramsamak.com](https://vikramsamak.com/)
 - 📫 How to reach me **vikramsamak02@gmail.com**
   
 
