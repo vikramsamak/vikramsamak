@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋 I'm Vikram Samak</h1>
-<p align="center">Software Engineer • Full Stack Developer</p>
+<p align="center">
+Automation Engineer • Workflow Architect • Full Stack Developer
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- Software Engineer with hands-on experience in building web applications
-- Skilled in **React, Next.js (App Router), TypeScript, Node.js, Express, MongoDB**
-- Focused on clean code, performance, and scalable architecture
-- Comfortable with rapid prototyping and real-world problem solving
+### 🤖 About Me
+- Automation-focused engineer building **scalable workflows and systems**
+- Strong hands-on experience with **n8n, API integrations, Webhooks, JSON**
+- Working with **AI-powered automations (MCP, RAG, LLM workflows)**
+- Background in **Full Stack Development**, which helps design reliable automations
+- Passionate about reducing manual work using smart, maintainable automation
+
+---
+
+### ⚙️ What I Work On
+- End-to-end workflow automation using **n8n**
+- API & webhook-based integrations
+- AI automation pipelines (content, data, agents)
+- Backend logic for automation systems
+- Automation-first product thinking
 
 ---
 
@@ -32,20 +44,20 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech & Tools
 <p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="32"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32"/>
 </p>
 
 ---
 
 <p align="center">
-  Building • Learning • Improving
+Automate • Optimize • Scale 
 </p>
