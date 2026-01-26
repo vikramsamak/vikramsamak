@@ -30,30 +30,29 @@ Automation Engineer • Workflow Architect • Full Stack Developer
 ---
 
 ### 🤝 Connect With Me
-<p>
+<p align="left">
   <a href="https://linkedin.com/in/vikram-samak">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/vikramsamak">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" />
-  </a>
-  <a href="https://www.hackerrank.com/vikramsamak02">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="28" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
 
-### 🛠 Tech & Tools
+
+---
+### Tech & Tools
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32"/>
+  <img src="https://cdn.simpleicons.org/javascript/f7df1e" height="36" />
+  <img src="https://cdn.simpleicons.org/typescript/3178c6" height="36" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" />
+  <img src="https://cdn.simpleicons.org/react/61dafb" height="36" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="36" />
+  <img src="https://cdn.simpleicons.org/mongodb/47a248" height="36" />
+  <img src="https://cdn.simpleicons.org/postman/ff6c37" height="36" />
+  <img src="https://cdn.simpleicons.org/n8n/ea4b71" height="36" />
 </p>
 
 ---
